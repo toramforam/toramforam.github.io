@@ -107,7 +107,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "인터서버 catchy"
   location         : # "Somewhere"
-  email            : "toramguide@gmail.com"
+  email            : # "toramguide@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
