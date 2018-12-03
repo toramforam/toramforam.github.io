@@ -11,7 +11,7 @@ main:
     url: /page-archive/
   - title: "Collections"
     url: /collection-archive/
-  - title: "External Link"
+  - title: "외부링크"
     url: https://google.com
 
 
