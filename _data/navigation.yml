@@ -13,3 +13,11 @@ main:
     url: /collection-archive/
   - title: "External Link"
     url: https://google.com
+
+
+  - title: Extras
+    children:
+      - title: "Stylesheets"
+        url: /docs/stylesheets/
+      - title: "JavaScript"
+        url: /docs/javascript/
