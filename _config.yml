@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "토람포람"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "캣치"
+description              : "아소비모의 MMORPG 토람온라인의 공략사이트입니다."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,11 +103,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "캣치"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "인터서버 catchy"
+  location         : # "Somewhere"
+  email            : "toramguide@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
