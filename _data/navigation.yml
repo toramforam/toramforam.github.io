@@ -1,6 +1,4 @@
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
@@ -9,15 +7,15 @@ main:
     url: /tags/
   - title: "Pages"
     url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
+#  - title: "Collections"
+#    url: /collection-archive/
   - title: "외부링크"
     url: https://google.com
 
 
   - title: Extras
     children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "하위1"
+        url: https://google.com
+      - title: "하위2"
+        url: https://google.com
